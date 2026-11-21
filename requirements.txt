@@ -1,0 +1,12 @@
+# Módulos 01-03
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+
+# Módulo 04
+scikit-learn
+
+# Módulo 05 (instalar cuando lleguemos)
+# tensorflow
